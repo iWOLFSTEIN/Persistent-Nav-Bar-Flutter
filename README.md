@@ -5,5 +5,5 @@ The code represents an example of a persistent bottom navigation bar without any
 The benefit is that you can use your navigator key along with persisting the bottom navigation bar which you cannot use otherwise while using go_router etc.
 
 <p align="center">
-  <img src="https://gifyu.com/image/SOju9" alt="Demo GIF" />
+  <img src="https://s11.gifyu.com/images/SOjuD.gif" alt="Demo GIF" />
 </p>
